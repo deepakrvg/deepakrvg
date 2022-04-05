@@ -67,7 +67,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/deepak-gupta-68bb2321a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://icons8.com/icon/62856/github"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+<a href="https://github.com/deepakrvg"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 
 </p>
 
