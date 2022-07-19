@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently 3* </a> on **Codechef**
+- 🔭 I’m currently 4* </a> on **Codechef**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
   
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
