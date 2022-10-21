@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently 4* </a> on **Codechef**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms and Machine Learning**
   
 - 🌱 I’m currently learning **AI/ML**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 **[My Portfolio](https://deepakrvg.github.io)**
+- 👨‍💻 **[My Portfolio](https://guptadeepak.netlify.app)**
 
 
 ## 🚀 Languages and Tools:
